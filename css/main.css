@@ -42,6 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-.discount {
+#discount {
   color: red;
 }
