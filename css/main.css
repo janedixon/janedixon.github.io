@@ -50,9 +50,18 @@ ul {
   overflow: hidden;
 	width: 80%;
 	float: center;
+  width: 1175px;
 }
 
 li {
   display: inline;
   padding: 8px;
+	color: #333333;
+  font-family: Lora;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 14px;
+  text-align: center;
+	
 }
